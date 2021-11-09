@@ -1,0 +1,41 @@
+.container{
+    width: 500px;
+    padding-left: 400px;
+}
+.todo-controls li {
+    list-style: none;
+    padding:10px;
+}
+li.done{
+    border: 5px solid greenyellow;
+}
+.todo-list li{
+    list-style: none;
+    padding: 10px;
+    background-color: dodgerblue !important;
+    color: white;
+    margin-top: 5px;
+}
+#form_section{
+    margin-left: 100px;
+}
+
+input,button{
+    padding: 11px;
+}
+.icon-edit{
+   background-color: blue;
+   color: white;
+   padding: 5px;
+}
+.icon-done{
+    background-color: green;
+    color: white;
+    padding: 5px;
+ }
+ .icon-delete{
+    background-color: red;
+    color: white;
+    padding: 5px;
+ }
+
